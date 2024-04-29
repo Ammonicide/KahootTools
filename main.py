@@ -6,9 +6,9 @@ bot = client()
 class KahootSpammer:
     def __init__(self):
         print('KahootTools - Remastered by Nightmrs - Originally made by xeny')
-        self.gamepin = input('PIN: ')
-        self.botamount = input('Amount of bots (max 2000): ')
-        self.custom_user = input('Enter desired username (5 or less chars) (leave blank if none): ')
+        self.gamepin = input('PIN:1181588 ')
+        self.botamount = input('Amount of bots (max 2000):100 ')
+        self.custom_user = input('Enter desired username (5 or less chars) (leave blank if none):JAKE ')
 
     def joinHandle(self):
         pass
